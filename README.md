@@ -1,2 +1,4 @@
 # hello-world
-Solo otro repositorio
+
+No sé qué escribir acá. 
+Me gustaría que las materias de informatica sirvieran más.
